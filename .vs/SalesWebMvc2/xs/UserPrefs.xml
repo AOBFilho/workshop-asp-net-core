@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1BA4E4BA-27E4-4C25-AABD-6379F410C1DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Sellers/Details.cshtml">
+    <Files>
+      <File FileName="Views/Sellers/Create.cshtml" Line="35" Column="16" />
+      <File FileName="Services/SellerService.cs" Line="29" Column="9" />
+      <File FileName="Views/Sellers/Delete.cshtml" Line="28" Column="43" />
+      <File FileName="Controllers/SellersController.cs" Line="63" Column="9" />
+      <File FileName="Views/Sellers/Details.cshtml" Line="28" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SalesWebMvc2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
